@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kiangti
+- 👀 I’m interested in full stack
